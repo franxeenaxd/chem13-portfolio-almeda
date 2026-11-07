@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) was used in this activity through The Alkanes as an aid in checking and verifying 
+the correctness of the IUPAC nomenclature of the given names and skeletal structures. 
+The tool served as a reference to ensure the accuracy of the chemical names.
+However, the final answers were reviewed and verified by the author.
